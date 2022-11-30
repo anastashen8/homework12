@@ -5,7 +5,8 @@
 
 # Алгоритм решения
 
-## Блок схема ![здесь](https://github.com/anastashen8/homework12/blob/main/diagram.png)
+## Блок схема 
+![](https://github.com/anastashen8/homework12/blob/main/diagram.png)
 
 
 ## Описание:
